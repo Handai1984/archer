@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "horse_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8bbd78ce-bc2f-44ea-95ed-70ec5af22f2d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "9a3a60a0-64f1-4c41-b948-899bf9565510"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "76f1be94-c971-46e5-98df-132f55c955c4"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "e0883412-ceba-42ca-b57f-ad47f96ce111"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "808de3c3-797b-41b4-8beb-0361c1c12886"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8509e65f-4a43-43f7-a441-dc3561ada1af"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "3b0443e6-1f1d-472b-8635-ef4cda495b26"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "4ebbaeec-196a-428b-8c2d-1d82a8cbd19c"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "f859b817-d84e-4a87-bfdb-aa93d9b44d60"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "c415b701-93b4-492a-a162-815aaef539a7"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "fd63f3b9-7b87-436f-aba6-a070761778ff"
+            }
+          },
+          {
+            "frame": 1.1,
+            "value": {
+              "__uuid__": "e1aa6c35-9aa7-468b-b617-b7e8371ce94d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.1,
+      "func": "damged",
+      "params": []
+    }
+  ]
+}

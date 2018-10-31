@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pike_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9d29f243-8239-4428-a75e-593e06b897dd"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "4b2e0eaa-caa8-4c7a-95e1-075bcb76ca91"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "837b67f9-0d5b-40bb-bd61-ef6db7ac8da0"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "5955a1a6-bd4f-4690-ab18-209f2a0733f5"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "c187f794-2a9e-4a7d-b0bf-71aaf469bc83"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "17d25138-8f57-4b20-87d1-8c14ce7f054c"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "e65bb9e3-d4e6-4593-8151-ee4a63432ec0"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "20d84062-6152-4784-a104-485cf2e1b619"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "2ea194ef-182b-4dbf-85bb-f2392b80e24f"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "7b71d353-1439-4928-9945-ab736581a0c0"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.9,
+      "func": "damged",
+      "params": []
+    }
+  ]
+}

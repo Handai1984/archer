@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "865c5c74-0695-4abc-944b-2f8464867d2e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "barbarian_die_19": {
+      "ver": "1.0.3",
+      "uuid": "0c77d3ce-4e5d-4c5b-b8a4-3b99ee73d843",
+      "rawTextureUuid": "865c5c74-0695-4abc-944b-2f8464867d2e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -21,
+      "offsetY": -40.5,
+      "trimX": 9,
+      "trimY": 91,
+      "width": 84,
+      "height": 51,
+      "rawWidth": 144,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

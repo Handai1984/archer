@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "acdb2098-fc64-4063-bb98-a8773b43659b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TIM图片20181025165053_02": {
+      "ver": "1.0.3",
+      "uuid": "4ebb05e4-f202-492e-aed1-e727546c75c2",
+      "rawTextureUuid": "acdb2098-fc64-4063-bb98-a8773b43659b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 24,
+      "rawWidth": 92,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

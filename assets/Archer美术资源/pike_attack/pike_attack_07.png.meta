@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c04bdb0d-c3d1-4f21-9f71-04688057c240",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pike_attack_07": {
+      "ver": "1.0.3",
+      "uuid": "e65bb9e3-d4e6-4593-8151-ee4a63432ec0",
+      "rawTextureUuid": "c04bdb0d-c3d1-4f21-9f71-04688057c240",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 9,
+      "offsetY": 0,
+      "trimX": 18,
+      "trimY": 0,
+      "width": 94,
+      "height": 72,
+      "rawWidth": 112,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

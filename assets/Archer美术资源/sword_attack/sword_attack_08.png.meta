@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "b614a39f-6dc9-4c1c-b2f9-6416aa14761b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sword_attack_08": {
+      "ver": "1.0.3",
+      "uuid": "427edf46-8e02-4fe4-b043-33773512cf25",
+      "rawTextureUuid": "b614a39f-6dc9-4c1c-b2f9-6416aa14761b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -14,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 52,
+      "height": 71,
+      "rawWidth": 80,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

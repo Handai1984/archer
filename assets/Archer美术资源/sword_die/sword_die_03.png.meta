@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "d7cac4bf-4576-409e-916a-71450e4c85c1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sword_die_03": {
+      "ver": "1.0.3",
+      "uuid": "69a85be6-fcfe-46fa-ae60-986609dc5848",
+      "rawTextureUuid": "d7cac4bf-4576-409e-916a-71450e4c85c1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 10.5,
+      "offsetY": -11.5,
+      "trimX": 39,
+      "trimY": 38,
+      "width": 55,
+      "height": 63,
+      "rawWidth": 112,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
