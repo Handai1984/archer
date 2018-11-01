@@ -99,6 +99,7 @@ bloodadd() {
     this.blood.progress += 50/500;
 },
 gameove() {
+    jsb.reflection.callStaticMethod("org/cocos2dx/javascript/AppActivity","showInter","()V");
     this.gameovenode.active = true;
     this.highscoretext.string = '总分：' + this.highscore;
 },
@@ -135,6 +136,12 @@ EnemyCount(count) {
 },
 
 upstate() {//
+    var rnd = cc.random0To1() * 2
+    rnd = Math.floor(rnd);
+    if(rnd == 0) {
+        cc.log('我是广告');
+        jsb.reflection.callStaticMethod("org/cocos2dx/javascript/AppActivity","showInter","()V");
+    }
     this.blood.progress = 1;
     this.upgrade_node.active = true;
     this.score_all = this.score_all + (this.level-1) * 10;
